@@ -1,0 +1,21 @@
+C:\Users\nilvi\Desktop\Treballs FP\DAM2 - M07 - Desenvolupament d'interfícies\S05 Events i Grid\S05 Events i Grid\bin\Debug\net6.0-windows\S05 Events i Grid.exe
+C:\Users\nilvi\Desktop\Treballs FP\DAM2 - M07 - Desenvolupament d'interfícies\S05 Events i Grid\S05 Events i Grid\bin\Debug\net6.0-windows\S05 Events i Grid.deps.json
+C:\Users\nilvi\Desktop\Treballs FP\DAM2 - M07 - Desenvolupament d'interfícies\S05 Events i Grid\S05 Events i Grid\bin\Debug\net6.0-windows\S05 Events i Grid.runtimeconfig.json
+C:\Users\nilvi\Desktop\Treballs FP\DAM2 - M07 - Desenvolupament d'interfícies\S05 Events i Grid\S05 Events i Grid\bin\Debug\net6.0-windows\S05 Events i Grid.dll
+C:\Users\nilvi\Desktop\Treballs FP\DAM2 - M07 - Desenvolupament d'interfícies\S05 Events i Grid\S05 Events i Grid\bin\Debug\net6.0-windows\S05 Events i Grid.pdb
+C:\Users\nilvi\Desktop\Treballs FP\DAM2 - M07 - Desenvolupament d'interfícies\S05 Events i Grid\S05 Events i Grid\obj\Debug\net6.0-windows\S05 Events i Grid.csproj.AssemblyReference.cache
+C:\Users\nilvi\Desktop\Treballs FP\DAM2 - M07 - Desenvolupament d'interfícies\S05 Events i Grid\S05 Events i Grid\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\nilvi\Desktop\Treballs FP\DAM2 - M07 - Desenvolupament d'interfícies\S05 Events i Grid\S05 Events i Grid\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\nilvi\Desktop\Treballs FP\DAM2 - M07 - Desenvolupament d'interfícies\S05 Events i Grid\S05 Events i Grid\obj\Debug\net6.0-windows\S05 Events i Grid_MarkupCompile.cache
+C:\Users\nilvi\Desktop\Treballs FP\DAM2 - M07 - Desenvolupament d'interfícies\S05 Events i Grid\S05 Events i Grid\obj\Debug\net6.0-windows\S05 Events i Grid_MarkupCompile.lref
+C:\Users\nilvi\Desktop\Treballs FP\DAM2 - M07 - Desenvolupament d'interfícies\S05 Events i Grid\S05 Events i Grid\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\nilvi\Desktop\Treballs FP\DAM2 - M07 - Desenvolupament d'interfícies\S05 Events i Grid\S05 Events i Grid\obj\Debug\net6.0-windows\S05 Events i Grid.g.resources
+C:\Users\nilvi\Desktop\Treballs FP\DAM2 - M07 - Desenvolupament d'interfícies\S05 Events i Grid\S05 Events i Grid\obj\Debug\net6.0-windows\S05 Events i Grid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nilvi\Desktop\Treballs FP\DAM2 - M07 - Desenvolupament d'interfícies\S05 Events i Grid\S05 Events i Grid\obj\Debug\net6.0-windows\S05 Events i Grid.AssemblyInfoInputs.cache
+C:\Users\nilvi\Desktop\Treballs FP\DAM2 - M07 - Desenvolupament d'interfícies\S05 Events i Grid\S05 Events i Grid\obj\Debug\net6.0-windows\S05 Events i Grid.AssemblyInfo.cs
+C:\Users\nilvi\Desktop\Treballs FP\DAM2 - M07 - Desenvolupament d'interfícies\S05 Events i Grid\S05 Events i Grid\obj\Debug\net6.0-windows\S05 Events i Grid.csproj.CoreCompileInputs.cache
+C:\Users\nilvi\Desktop\Treballs FP\DAM2 - M07 - Desenvolupament d'interfícies\S05 Events i Grid\S05 Events i Grid\obj\Debug\net6.0-windows\S05 Events i Grid.dll
+C:\Users\nilvi\Desktop\Treballs FP\DAM2 - M07 - Desenvolupament d'interfícies\S05 Events i Grid\S05 Events i Grid\obj\Debug\net6.0-windows\refint\S05 Events i Grid.dll
+C:\Users\nilvi\Desktop\Treballs FP\DAM2 - M07 - Desenvolupament d'interfícies\S05 Events i Grid\S05 Events i Grid\obj\Debug\net6.0-windows\S05 Events i Grid.pdb
+C:\Users\nilvi\Desktop\Treballs FP\DAM2 - M07 - Desenvolupament d'interfícies\S05 Events i Grid\S05 Events i Grid\obj\Debug\net6.0-windows\S05 Events i Grid.genruntimeconfig.cache
+C:\Users\nilvi\Desktop\Treballs FP\DAM2 - M07 - Desenvolupament d'interfícies\S05 Events i Grid\S05 Events i Grid\obj\Debug\net6.0-windows\ref\S05 Events i Grid.dll

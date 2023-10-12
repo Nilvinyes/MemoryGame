@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0-windows
+build_property.TargetPlatformMinVersion = 7.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = S05_Events_i_Grid
+build_property.ProjectDir = C:\Users\nilvi\Desktop\Treballs FP\DAM2 - M07 - Desenvolupament d'interfícies\S05 Events i Grid\S05 Events i Grid\
